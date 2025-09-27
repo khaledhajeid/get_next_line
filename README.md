@@ -24,6 +24,8 @@ This project was a key experience in understanding **file handling, dynamic memo
 - Language: C
 - Platform: Linux / macOS
 
+---
+
 ## Usage
 
 1. Include get_next_line.h in your project.
@@ -49,6 +51,9 @@ int main(void)
     return 0;
 }
 ```
+
+---
+
 ## File Structure
 ```c
 get_next_line/
@@ -58,6 +63,9 @@ get_next_line/
 ├── Makefile
 └── README.md
 ```
+
+---
+
 ## Project Highlights
 
 - Strengthened low-level C programming skills.
