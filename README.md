@@ -50,7 +50,7 @@ int main(void)
 }
 ```
 ## File Structure
-```
+```c
 get_next_line/
 ├── get_next_line.c
 ├── get_next_line.h
